@@ -1,4 +1,4 @@
-A simple set of steps
+# A simple set of steps
 
 Read the problem completely twice.
 Solve the problem manually with 3 sets of sample data.
@@ -8,7 +8,7 @@ Replace the comments or pseudo-code with real code.
 Optimize the real code.
 
 
-As much as 70% of our time should be spent in steps 1-3.
+# As much as 70% of our time should be spent in steps 1-3.
 
 
 If you don’t understand the problem, you cannot solve it.  Do not worry about wasting time here, because the better you understand the problem, the easier it will be to solve it.
@@ -26,7 +26,7 @@ Many times you can skip this step if you have a really good handle on the proble
 
 
 
-Replace comments with real code
+# Replace comments with real code
 
 The only way you are going to have confidence in this process is to practice it.  It takes a good amount of faith to believe that spending 70% of your 30 minutes to solve a problem just thinking about the problem and not writing any code is the right approach, so make sure you have that faith when you need it.
 
@@ -38,9 +38,9 @@ The only way you are going to have confidence in this process is to practice it.
 
 
 
-“Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
+# “Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
 
-“The most successful people I know are not busy. They’re focused.”
+# “The most successful people I know are not busy. They’re focused.”
 
 
 “Indeed the state of all who are preoccupied is wretched, but the most wretched are those who are toiling not even at their own preoccupations…If such people want to know how short their lives are, let them reflect how small a portion is their own.”
@@ -48,10 +48,10 @@ The only way you are going to have confidence in this process is to practice it.
 
 
 
-“Being busy is a form of mental laziness.” -Tim Ferriss
+# “Being busy is a form of mental laziness.” -Tim Ferriss
 
 
-“Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
+# “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
 
 
 “People are unhappy in large part because they are confused about what is valuable.”
@@ -82,18 +82,18 @@ You Can Do Amazing Things, But Only If You Have Time to Do Them
 
 
 
-Try a solution.
+# Try a solution.
 If that doesn’t work, try another one.
 If that doesn’t work, repeat step 2 until you luck out.
 
-1. Understand
+### 1. Understand
 
-2. Plan
+### 2. Plan
 
 
-3. Divide
+### 3. Divide
 
-4. Stuck?
+### 4. Stuck?
 
 
 You also know that problem-solving is an incredible skill to cultivate (the meta-skill).
@@ -108,11 +108,11 @@ You also know that problem-solving is an incredible skill to cultivate (the meta
 <hr>
 
 
-1. Assemble a Team
-2. Define the Problem
-3. Ask the First "Why?"
-4. Ask "Why?" Four More Times
-Step 5. Know When to Stop
-6. Address the Root Cause(s)
-7. Monitor Your Measures
+### 1. Assemble a Team
+### 2. Define the Problem
+### 3. Ask the First "Why?"
+### 4. Ask "Why?" Four More Times
+### Step 5. Know When to Stop
+### 6. Address the Root Cause(s)
+### 7. Monitor Your Measures
 
