@@ -80,3 +80,11 @@ SOAP :
         4xx: Client Error – This category of error status codes points the finger at clients.
         5xx: Server Error – The server takes responsibility for these error status codes.
    
+
+
+Term ---- 
+Web Server - 
+Definition: A web server is a computer that runs websites
+Express - The primary use of Express is to provide server-side logic for web and mobile applications, and as such it's used all over the place
+Routing - Routing is a process which is performed by layer 3 (or network layer) devices in order to deliver the packet by choosing an optimal path from one network to another.
+WRRC - not known
