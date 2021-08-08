@@ -14,5 +14,7 @@ __Here's my profile on github.com:__
 
 | Page Name        | LINK       |
 | ------------- |:-------------:|
-| 1. Reading and Reference Materials      | [class-01]()|
+| 1. Reading and Reference Materials      | [class-01](https://yazanbaker94.github.io/reading-401/class1)|
+| 2. Readings: Node Ecosystem, TDD, CI/CD      | [class-02](https://yazanbaker94.github.io/reading-401/class2)|
+
 
