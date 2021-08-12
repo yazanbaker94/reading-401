@@ -18,5 +18,5 @@ __Here's my profile on github.com:__
 | 2. Readings: Node Ecosystem, TDD, CI/CD      | [class-02](https://yazanbaker94.github.io/reading-401/class2)|
 | 3. Readings: Express      | [class-03](https://yazanbaker94.github.io/reading-401/class3)|
 | 4. Readings: Express REST API     | [class-04](https://yazanbaker94.github.io/reading-401/class4)|
-| 4. Readings: Data Modeling    | [class-05](https://yazanbaker94.github.io/reading-401/class5)|
-
+| 5. Readings: Data Modeling    | [class-05](https://yazanbaker94.github.io/reading-401/class5)|
+| 6. Implementation: Linked Lists    | [class-06](https://yazanbaker94.github.io/reading-401/class6)|
