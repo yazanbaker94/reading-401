@@ -20,3 +20,4 @@ __Here's my profile on github.com:__
 | 4. Readings: Express REST API     | [class-04](https://yazanbaker94.github.io/reading-401/class4)|
 | 5. Readings: Data Modeling    | [class-05](https://yazanbaker94.github.io/reading-401/class5)|
 | 6. Implementation: Linked Lists    | [class-06](https://yazanbaker94.github.io/reading-401/class6)|
+| 7. Implementation: Linked Lists    | [class-07](https://yazanbaker94.github.io/reading-401/class7)|
