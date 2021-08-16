@@ -22,3 +22,4 @@ __Here's my profile on github.com:__
 | 6. Implementation: Linked Lists    | [class-06](https://yazanbaker94.github.io/reading-401/class6)|
 | 7. Class 7    | [class-07](https://yazanbaker94.github.io/reading-401/class7)|
 | 8. Reading: Bearer Authorization    | [class-08](https://yazanbaker94.github.io/reading-401/class8)|
+| 9. Access Control (ACL)    | [class-09](https://yazanbaker94.github.io/reading-401/class9)|
