@@ -23,3 +23,4 @@ __Here's my profile on github.com:__
 | 7. Class 7    | [class-07](https://yazanbaker94.github.io/reading-401/class7)|
 | 8. Reading: Bearer Authorization    | [class-08](https://yazanbaker94.github.io/reading-401/class8)|
 | 9. Access Control (ACL)    | [class-09](https://yazanbaker94.github.io/reading-401/class9)|
+| 10. Reading: Authorization/Authentication    | [class-010](https://yazanbaker94.github.io/reading-401/class10)|
