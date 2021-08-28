@@ -25,11 +25,11 @@ __Here's my profile on github.com:__
 | 9. Access Control (ACL)    | [class-09](https://yazanbaker94.github.io/reading-401/class9)|
 | 10. Reading: Authorization/Authentication    | [class-010](https://yazanbaker94.github.io/reading-401/class10)|
 | 11. Stacks and Queues    | [class-11](https://yazanbaker94.github.io/reading-401/class11)|
-| 12. Read: Class 11  | [class-12](https://yazanbaker94.github.io/reading-401/class12)|
-| 13. Read: Class 12  | [class-13](https://yazanbaker94.github.io/reading-401/class13)|
-| 14. Read: Class 13  | [class-14](https://yazanbaker94.github.io/reading-401/class14)|
-| 15. Read: Class 14  | [class-15](https://yazanbaker94.github.io/reading-401/class15)|
-| 16. Read: Class 15  |  [class-15](https://yazanbaker94.github.io/reading-401/class16)|
-| 17. Read: Class 16  |  [class-16](https://yazanbaker94.github.io/reading-401/class17)|
+| 12. Read: Class 12  | [class-12](https://yazanbaker94.github.io/reading-401/class12)|
+| 13. Read: Class 13  | [class-13](https://yazanbaker94.github.io/reading-401/class13)|
+| 14. Read: Class 14 | [class-14](https://yazanbaker94.github.io/reading-401/class14)|
+| 15. Read: Class 15  | [class-15](https://yazanbaker94.github.io/reading-401/class15)|
+| 16. Read: Class 16  |  [class-16](https://yazanbaker94.github.io/reading-401/class16)|
+| 17. Read: Class 17  |  [class-17](https://yazanbaker94.github.io/reading-401/class17)|
 
 
