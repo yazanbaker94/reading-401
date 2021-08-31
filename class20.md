@@ -50,3 +50,29 @@ A standard queue tries to preserve the order of messages (best-effort), but ther
 
 How can the server be assured a message was properly received?
 The client/child will listen to the emitted socket from the server and when that is complete, then the client will emit a socket "received" back to the server and therefore the server will know for sure its over and delete it from the server side.
+
+
+
+Serverless API
+
+Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs in stateless compute containers that are event-triggered, ephemeral (may last for one invocation), and fully managed by the cloud provider.
+
+
+Triggers
+cause (an event or situation) to happen or exist.
+
+
+Dynamo vs Mongo
+
+DynamoDB is a fully managed AWS service, MongoDB can be self installed or fully managed with MongoDB Atlas. ... DynamoDB uses tables, items and attributes, MongoDB uses JSON-like documents. DynamoDB supports limited data types and smaller item sizes; MongoDB supports more data types and has fewer size restrictions.
+
+
+Dynamoose vs Mongoose
+
+Dynamoose supported by AWS
+Mongoose on NodeJS locally
+Dynamoose can be handled online
+Mongoose can aslo be handed online
+
+
+
