@@ -21,3 +21,14 @@ setState is merging the previous state with the new one, it means that you dont 
 
 
 
+Term
+State Hook
+
+A Hook is a special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components. We'll learn other Hooks later.
+
+
+
+Mounting and Un-Mounting
+
+The main job of React is to figure out how to modify the DOM to match what the components want to be rendered on the screen. React does so by "mounting" (adding nodes to the DOM), "unmounting" (removing them from the DOM), and "updating" (making changes to nodes already in the DOM).
+
