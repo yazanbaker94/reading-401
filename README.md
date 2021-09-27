@@ -45,4 +45,5 @@ __Here's my profile on github.com:__
 | 29. Read: Class 29 |  [class-29](https://yazanbaker94.github.io/reading-401/class29)|
 | 30. Read: Class 30 |  [class-30](https://yazanbaker94.github.io/reading-401/class30)|
 | 31. Read: Class 31 |  [class-31](https://yazanbaker94.github.io/reading-401/class31)|
+| 32. Read: Class 32 |  [class-32](https://yazanbaker94.github.io/reading-401/class32)|
 
